@@ -6,16 +6,6 @@ Hardware steps:
 1. Fill the tank with water upto 20cms on one side of the partition.
 2. Connect Arduino UNO with Ultrasonic sensor, LoRa transmitter and LoRa antenna module using the following connections.
 
-Connections: 
-LoRa SX1278 Module           Arduino UNO Board
-3.3V                               3.3V
-Gnd                                 Gnd
-En/Nss                              D10
-G0/DIO0                             D2
-SCK                                 D13
-MISO                                D12
-MOSI                                D11
-RST                                 D9
 ![lora connection](https://github.com/aaditi2/Wireless-Based-Data-Transmission-System-for-Gate-Control-in-Dams-along-with-Data-Analysis/assets/114819269/f2f78fbb-df9a-4e38-b4cb-ec44e7e69e64)
 
 ![cuplikan_web_23-12-2022_51015_easyeda_com_oTzaOI1WMD](https://github.com/aaditi2/Wireless-Based-Data-Transmission-System-for-Gate-Control-in-Dams-along-with-Data-Analysis/assets/114819269/0be9126b-fd49-4611-a769-e5207080c7c4)
