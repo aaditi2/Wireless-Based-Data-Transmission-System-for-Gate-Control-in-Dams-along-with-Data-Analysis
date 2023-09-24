@@ -1,6 +1,4 @@
 # Wireless-Based-Data-Transmission-System-for-Gate-Control-in-Dams-along-with-Data-Analysis
-Combination of- Hardware (Arduino, ultrasonic sensors, LoRa) and Software (Python, ML). This project was sponsored by CWPRS (Central Water and Power Research Station), Pune, India, and led by Dr. Selva Balan, Joint Director and Scientist at CWPRS.
-
 
 User Manual Group. 27 (2022-2023)
 
@@ -18,6 +16,7 @@ SCK                                 D13
 MISO                                D12
 MOSI                                D11
 RST                                 D9
+![lora connection](https://github.com/aaditi2/Wireless-Based-Data-Transmission-System-for-Gate-Control-in-Dams-along-with-Data-Analysis/assets/114819269/f2f78fbb-df9a-4e38-b4cb-ec44e7e69e64)
 
 ![cuplikan_web_23-12-2022_51015_easyeda_com_oTzaOI1WMD](https://github.com/aaditi2/Wireless-Based-Data-Transmission-System-for-Gate-Control-in-Dams-along-with-Data-Analysis/assets/114819269/0be9126b-fd49-4611-a769-e5207080c7c4)
 
