@@ -19,6 +19,10 @@ MISO                                D12
 MOSI                                D11
 RST                                 D9
 
+![cuplikan_web_23-12-2022_51015_easyeda_com_oTzaOI1WMD](https://github.com/aaditi2/Wireless-Based-Data-Transmission-System-for-Gate-Control-in-Dams-along-with-Data-Analysis/assets/114819269/0be9126b-fd49-4611-a769-e5207080c7c4)
+
+![lora111_1pguqn8req_neNPR3ciIO](https://github.com/aaditi2/Wireless-Based-Data-Transmission-System-for-Gate-Control-in-Dams-along-with-Data-Analysis/assets/114819269/2405c51e-1584-46d9-a950-d0af369c4fbc)
+
 3. Connect Arduino UNO with LoRa’s receiver module with antenna using the same connection as that of LoRa’s transmitter module servo motor with the following connections:
 -> The servo motor has a female connector with three pins. The darkest or even black one is usually the ground.
 -> Connect the power cable that in all standards should be red to 5V on the Arduino.
